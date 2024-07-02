@@ -11,3 +11,15 @@ RESET
 html {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/*
+GENERAL
+*/
+
+.box {
+    background-color: darkred;
+    color: white;
+    padding: 20px;
+    border: 2px solid white;
+    text-align: center;
+}
